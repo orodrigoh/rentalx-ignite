@@ -33,4 +33,4 @@ class SpecificationsRepository implements ISpecificationsRepository {
   }
 }
 
-export const specificationsRepository = new SpecificationsRepository();
+export { SpecificationsRepository };
